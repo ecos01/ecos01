@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi! I’m **Cosimi Eugenio**, a Cybersecurity MSc student at **Sapienza University of Rome**.  
+Hi! I’m **Eugenio Cosimi**, a Cybersecurity MSc student at **Sapienza University of Rome**.  
 Interested in building secure systems and learning through hands-on projects.
 
 - 🔐 Cybersecurity MSc @ Sapienza University of Rome
